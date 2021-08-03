@@ -12,4 +12,4 @@
 #### GUI'S Link
 ----> [GUI](https://assetstore.unity.com/packages/2d/gui/fantasy-wooden-gui-free-103811)
 
-![]()
+![](https://github.com/altayburakhan/Ball-s-Eye-/blob/main/Images/Ekran%20görüntüsü%202021-08-03%20151403.png)
