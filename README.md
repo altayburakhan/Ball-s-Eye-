@@ -18,4 +18,8 @@
 
 ### Options
 ##### Although most mobile games do not have an options, I thought it would look interesting and added it.
-![]
+
+-------------------------------------------------------------------------------------------------------------
+
+## NOTE : I forgot to add back in settings. So once you enter, you can't go back! :D
+![](https://github.com/altayburakhan/Ball-s-Eye-/blob/main/Images/Ekran%20görüntüsü%202021-08-03%20151634.png)
