@@ -4,9 +4,11 @@
 
 - This is a simple platform game but the difficulty level will be high.
 - I did this project in about 3 hours.
+- I have only made 3 levels yet, these levels were made so that the player can know the game and understand the mechanics.
 
 #### Joystick's Lınk that i used 
 ----> [Joystick](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631)
 
 #### GUI'S Link
 ----> [GUI](https://assetstore.unity.com/packages/2d/gui/fantasy-wooden-gui-free-103811)
+
