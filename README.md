@@ -1,2 +1,12 @@
 # Ball's Eye!
- My first prototype Unity game that I uploaded to GitHub.
+
+***My first prototype unity game that I uploaded to github.***
+
+- This is a simple platform game but the difficulty level will be high.
+- I did this project in about 3 hours.
+
+#### Joystick's Lınk that i used 
+----> [Joystick](https://assetstore.unity.com/packages/tools/input-management/joystick-pack-107631)
+
+#### GUI'S Link
+----> [GUI](https://assetstore.unity.com/packages/2d/gui/fantasy-wooden-gui-free-103811)
