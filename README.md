@@ -12,4 +12,10 @@
 #### GUI'S Link
 ----> [GUI](https://assetstore.unity.com/packages/2d/gui/fantasy-wooden-gui-free-103811)
 
+### Main Menu 
+##### A simple and understandable Main Menu.
 ![](https://github.com/altayburakhan/Ball-s-Eye-/blob/main/Images/Ekran%20görüntüsü%202021-08-03%20151403.png)
+
+### Options
+##### Although most mobile games do not have an options, I thought it would look interesting and added it.
+![]
