@@ -1,7 +1,7 @@
 # Ball's Eye!
 
 ***My first prototype unity game that I uploaded to github.***
-
+## This is the Version 1 of this game ##
 - This is a simple platform game but the difficulty level will be high.
 - I did this project in about 3 hours.
 - I have only made 3 levels yet, these levels were made so that the player can know the game and understand the mechanics.
