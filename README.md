@@ -13,7 +13,7 @@
 ----> [GUI](https://assetstore.unity.com/packages/2d/gui/fantasy-wooden-gui-free-103811)
 
 ##### Updated (10/16/2021)
-Added the options menu to the game/
+Added the options menu to the game.
 
 ### Main Menu 
 ##### A simple and understandable Main Menu.
