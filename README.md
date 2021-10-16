@@ -12,6 +12,9 @@
 #### GUI'S Link
 ----> [GUI](https://assetstore.unity.com/packages/2d/gui/fantasy-wooden-gui-free-103811)
 
+##### Updated (10/16/2021)
+Added the options menu to the game/
+
 ### Main Menu 
 ##### A simple and understandable Main Menu.
 ![](https://github.com/altayburakhan/Ball-s-Eye-/blob/main/Images/Ekran%20görüntüsü%202021-08-03%20151403.png)
